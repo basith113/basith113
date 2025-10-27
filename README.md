@@ -15,7 +15,7 @@
 
 ---
 
-### 🪪 Certifications  
+###  Certifications  
 
 - 🧠 [dbt Fundamentals Certification](https://credentials.getdbt.com/e69f296a-2fe2-4f2b-b483-c254950f39c2)  
 - 🎓 [Google Data Analytics by Coursera](https://www.coursera.org/account/accomplishments/verify/3V846V99EHGV)  
@@ -23,7 +23,7 @@
 
 ---
 
-### 🤝 Connect with Me  
+###  Connect with Me  
 
 <p align="left">
   <a href="https://www.linkedin.com/in/basith113/" target="_blank">
@@ -45,7 +45,7 @@
 
 ---
 
-### 🛠️ Languages and Tools  
+###  Languages and Tools  
 
 <p align="left">
 <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/snowflake.svg" alt="Snowflake" width="40" height="40"/>
@@ -68,13 +68,13 @@
 
 ---
 
-### 📊 GitHub Stats  
+###  GitHub Stats  
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=basith113&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=basith113&theme=default&hide_border=true" alt="GitHub Streak"/>
 </p>
 
