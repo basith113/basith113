@@ -48,35 +48,20 @@
 ### 🛠️ Languages and Tools  
 
 <p align="left">
-  <!-- Snowflake -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" alt="Snowflake" width="40" height="40"/>
   &nbsp;&nbsp;
-
-  <!-- dbt -->
-  <img src="https://raw.githubusercontent.com/dbt-labs/dbt-logo/main/dbt-logo.svg" alt="dbt" width="40" height="40"/>
+  <img src="https://docs.getdbt.com/img/dbt-logo.svg" alt="dbt" width="40" height="40"/>
   &nbsp;&nbsp;
-
-  <!-- MySQL -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   &nbsp;&nbsp;
-
-  <!-- PostgreSQL -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   &nbsp;&nbsp;
-
-  <!-- Power BI -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
   &nbsp;&nbsp;
-
-  <!-- Apache Superset -->
   <img src="https://raw.githubusercontent.com/apache/superset/master/superset-frontend/src/assets/images/superset-logo-horiz.png" alt="Apache Superset" width="90" height="40"/>
   &nbsp;&nbsp;
-
-  <!-- Excel -->
   <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="Excel" width="40" height="40"/>
   &nbsp;&nbsp;
-
-  <!-- Python -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
