@@ -6,13 +6,13 @@
 ### 👨‍💻 About Me
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Snowflake DWH | dbt | Power BI | Python | Azure | AWS | Data Automation**
+- 🔭 I’m currently working on **Snowflake  | dbt | Power BI | Python  | AWS | Data Automation**
 - 👯 I have experience in **EdTech Analytics | Insurance Data Engineering | CRM Data Pipelines**
 - 🌱 I’m currently learning **Fivetran | n8n | Airflow | Generative AI for Data**
-- 🤝 I’m looking to collaborate on **Data Engineering, Solution Architecture, and Automation Projects**
+- 🤝 I’m looking to collaborate on **Data Engineering, Analytics Engineer, and Data Analyst**
 - 💻 All of my projects are available at: [Data Science Portfolio](https://www.datascienceportfol.io/abdulbasith)
 - 💬 Ask me about **Data Engineering | dbt | Snowflake | Power BI**
-- 📫 How to reach me: **abdulbasith@example.com**
+- 📫 How to reach me: **analyst.basith@gmail.com**
 - 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/basith113/)
 - ⚡ Fun fact: I love creating automated data pipelines that save time ⏱️
 
@@ -28,18 +28,22 @@
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools
+
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachehive/apachehive-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/4/4b/Snowflake_Logo.svg" alt="Snowflake" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://docs.getdbt.com/img/dbt-logo.svg" alt="dbt" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Apache_Superset_logo.svg" alt="Apache Superset" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="Excel" width="40" height="40"/>
 </p>
 
 ---
