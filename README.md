@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abdul Basith</h1>
-<h3 align="center">A Passionate Data & Analytics Engineer from India 🇮🇳</h3>
+<h3 align="center">A Passionate Data & Analytics Engineer </h3>
 
 ---
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=basith113&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
-
----
-
-### 👨‍💻 About Me  
+  
 
 - 🔭 I’m currently working on **Snowflake, dbt, Power BI, Apache Superset, Excel and Data Automation using Python**  
 - 🌱 I’m currently learning **Generative AI, Airflow, and Cloud Data Engineering**  
