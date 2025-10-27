@@ -1,34 +1,56 @@
 <h1 align="center">Hi 👋, I'm Abdul Basith</h1>
-<h3 align="center">A Passionate Data & Analytics Engineer from India</h3>
+<h3 align="center">A Passionate Data & Analytics Engineer from India 🇮🇳</h3>
 
 ---
 
-### 👨‍💻 About Me
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-- 🔭 I’m currently working on **Snowflake  | dbt | Power BI | Python  | AWS | Data Automation**
-- 👯 I have experience in **EdTech Analytics | Insurance Data Engineering | CRM Data Pipelines**
-- 🌱 I’m currently learning **Fivetran | n8n | Airflow | Generative AI for Data**
-- 🤝 I’m looking to collaborate on **Data Engineering, Analytics Engineer, and Data Analyst**
-- 💻 All of my projects are available at: [Data Science Portfolio](https://www.datascienceportfol.io/abdulbasith)
-- 💬 Ask me about **Data Engineering | dbt | Snowflake | Power BI**
-- 📫 How to reach me: **analyst.basith@gmail.com**
-- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/basith113/)
-- ⚡ Fun fact: I love creating automated data pipelines that save time ⏱️
-
----
-
-### 🌐 Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/basith113/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a>
-<a href="https://www.kaggle.com/basith113113" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" alt="kaggle" height="40" width="40" /></a>
-<a href="https://www.instagram.com/its.basith?utm_source=qr&igsh=MWoyZTRtbG5pY3MxNg==" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="instagram" height="40" width="40" /></a>
-<a href="https://www.datascienceportfol.io/abdulbasith" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="portfolio" height="40" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=basith113&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+### 👨‍💻 About Me  
+
+- 🔭 I’m currently working on **Snowflake, dbt, Power BI, Apache Superset, Excel and Data Automation using Python**  
+- 🌱 I’m currently learning **Generative AI, Airflow, and Cloud Data Engineering**  
+- 💬 Ask me about **Data Modeling, dbt, SQL, Snowflake, and BI Dashboarding**  
+- 📫 How to reach me: **analyst.basith@gmail.com**  
+- 🧑‍💼 Portfolio: [Data Science Portfolio](https://www.datascienceportfol.io/abdulbasith)  
+- ⚡ Fun fact: *I love turning raw data into business stories.*
+
+---
+
+### 🪪 Certifications  
+
+- 🧠 [dbt Fundamentals Certification](https://credentials.getdbt.com/e69f296a-2fe2-4f2b-b483-c254950f39c2)  
+- 🎓 [Google Data Analytics by Coursera](https://www.coursera.org/account/accomplishments/verify/3V846V99EHGV)  
+- 💻 [HackerRank SQL (Intermediate)](https://www.hackerrank.com/certificates/b178b18592d0)
+
+---
+
+### 🤝 Connect with Me  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/basith113/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/its.basith" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.kaggle.com/basith113113" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="80" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.datascienceportfol.io/abdulbasith" target="_blank">
+    <img src="https://img.icons8.com/color/512/domain.png" alt="Portfolio" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools  
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/en/4/4b/Snowflake_Logo.svg" alt="Snowflake" width="40" height="40"/>
@@ -41,50 +63,28 @@
   &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
   &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Apache_Superset_logo.svg" alt="Apache Superset" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/apache/superset/master/superset-frontend/src/assets/images/superset-logo-horiz.png" alt="Apache Superset" width="90" height="40"/>
   &nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="Excel" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulbasithj&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulbasithj&theme=tokyonight" alt="GitHub streak"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulbasithj&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=basith113&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basith113&theme=default&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdulbasithj&theme=onedark&margin-w=10&no-frame=true" alt="trophies"/>
-</p>
+⭐ **“Turning Data into Actionable Insights.”**  
+📧 **Reach out:** [analyst.basith@gmail.com](mailto:analyst.basith@gmail.com)
 
 ---
-
-### 👁️‍🗨️ Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdulbasithj&color=brightgreen&style=flat-square" alt="profile views"/>
-</p>
-
----
-
-### 🎓 Certifications:
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Snowflake_Logo.svg" width="100"/>  
-  <br>**SnowPro Core Certified**
-</p>
-
-<p align="center">
-  <img src="https://1000logos.net/wp-content/uploads/2021/05/AWS-logo.png" width="100"/>  
-  <br>**AWS Certified Cloud Practitioner**
-</p>
-
----
-
-
-⭐️ **From [Abdul Basith](https://github.com/abdulbasithj)**
