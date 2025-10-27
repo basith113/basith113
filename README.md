@@ -49,7 +49,6 @@
 
 <p align="left">
   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/snowflake.svg" alt="Snowflake" width="40" height="40"/>
-
   &nbsp;&nbsp;
   <img src="https://docs.getdbt.com/img/dbt-logo.svg" alt="dbt" width="40" height="40"/>
   &nbsp;&nbsp;
