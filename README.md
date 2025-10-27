@@ -27,11 +27,11 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/basith113/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="Snowflake" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/its.basith" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
+   <img src="https://miro.medium.com/v2/resize:fit:256/1*ae0bLW2sV4Z3Yb3lqP3c_A.png" alt="dbt" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.kaggle.com/basith113113" target="_blank">
