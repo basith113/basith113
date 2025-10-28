@@ -52,8 +52,7 @@
 ###  Languages and Tools  
 
 <p align="left">
-<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/snowflake.svg" alt="Snowflake" width="40" height="40"/>
-  &nbsp;&nbsp;
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
   <img src="https://docs.getdbt.com/img/dbt-logo.svg" alt="dbt" width="40" height="40"/>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
