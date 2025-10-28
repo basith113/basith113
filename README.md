@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Basith</h1>
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Data+%26+Analytics+Engineer;BI+Developer;Data+Analyst;Analytics+Engineer;Data+Visualization+Expert;SQL+and+dbt+Specialist&background=0E75B6&vCenter=true&width=600&height=60&radius=10" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Data+%26+Analytics+Engineer;BI+Developer;Data+Analyst;Analytics+Engineer;SQL+%26+dbt+Specialist;Data+Visualization+Expert&background=1E1E1E&radius=6" alt="Typing SVG" />
   </a>
 </h3>
 
