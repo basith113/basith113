@@ -19,11 +19,26 @@
 
 ---
 
-###  Certifications  
+### 🎓 Certifications  
 
-- 🧠 [dbt Fundamentals Certification](https://credentials.getdbt.com/e69f296a-2fe2-4f2b-b483-c254950f39c2)  
-- 🎓 [Google Data Analytics by Coursera](https://www.coursera.org/account/accomplishments/verify/3V846V99EHGV)  
-- 💻 [HackerRank SQL (Intermediate)](https://www.hackerrank.com/certificates/b178b18592d0)
+<p align="left">
+
+  <a href="https://credentials.getdbt.com/e69f296a-2fe2-4f2b-b483-c254950f39c2" target="_blank">
+    <img src="https://img.shields.io/badge/dbt%20Fundamentals-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt Fundamentals"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.coursera.org/account/accomplishments/verify/3V846V99EHGV" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Data%20Analytics-4285F4?style=for-the-badge&logo=coursera&logoColor=white" alt="Google Data Analytics (Coursera)"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.hackerrank.com/certificates/b178b18592d0" target="_blank">
+    <img src="https://img.shields.io/badge/SQL%20(HackerRank)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL Certification"/>
+  </a>
+
+</p>
+
 
 ---
 
