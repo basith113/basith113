@@ -79,7 +79,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basith113&theme=default&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.vercel.app?user=basith113&theme=default&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 
