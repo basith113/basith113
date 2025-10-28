@@ -79,7 +79,7 @@
 </p>
 
 <p align="left">
- <img src="https://streak-stats.demolab.com?user=basith113" alt="GitHub Streak"/>
+ <img src="https://streak-stats.demolab.com?user=basith113" alt="GitHub Streak"/>
 </p>
 
 
