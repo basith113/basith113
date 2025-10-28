@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdul Basith</h1>
-<h3 align="center">A Passionate Data & Analytics Engineer </h3>
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Data+%26+Analytics+Engineer;BI+Developer;Data+Analyst;Analytics+Engineer;Data+Visualization+Expert;SQL+and+dbt+Specialist" alt="Typing SVG" />
+  </a>
+</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=basith113&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
